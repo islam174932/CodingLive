@@ -1,2 +1,4 @@
 Das ist ein Test [link](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 ![Alt text](file:///C:/Users/User/Desktop/CodingSchlueLivecode/images/cat.jpg)
+
+i added new staff
